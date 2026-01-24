@@ -68,6 +68,7 @@ Instala las dependencias:
 
 ```bash
 pip install streamlit pandas geopandas shapely matplotlib networkx numpy
+```
 
 ## ▶️ Cómo ejecutar el proyecto
 
@@ -79,11 +80,13 @@ pip install streamlit pandas geopandas shapely matplotlib networkx numpy
 
   ```bash
   pip install streamlit pandas geopandas shapely matplotlib networkx numpy
+  ```
 
 3. Ejecuta la aplicación desde la terminal:
    ```bash
   python -m streamlit run EXAMEN_FINAL_IA.py
-
+  ```
+  
 4. Se abrirá automáticamente una pestaña en tu navegador con la aplicación.
 
 ## 🧪 Cómo usar la aplicación
